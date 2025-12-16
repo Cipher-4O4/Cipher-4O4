@@ -152,7 +152,6 @@
 ## 🎯 Programming Activity
 
 <div align="center">
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg?style=for-the-badge&color=7C3AED" alt="Wakatime" />
   <img src="http://img.shields.io/badge/Code%20Time-1,000%20hrs-blue?style=for-the-badge&logo=visual-studio-code" alt="Code Time" />
 </div>
 
