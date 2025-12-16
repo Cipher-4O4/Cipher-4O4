@@ -215,17 +215,3 @@ Other         █▒░░░░░░░░░░░░░░░░░░░░
 
 </div>
 <!--END_SECTION:waka-->
-
-## 📌 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/Cipher-4O4/family-laundry">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cipher-4O4&repo=family-laundry&theme=radical&bg_color=0d1117&title_color=7C3AED&text_color=ffffff" alt="Family Laundry Repository" />
-  </a>
-  <a href="https://github.com/Cipher-4O4/awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cipher-4O4&repo=awesome-project&theme=radical&bg_color=0d1117&title_color=7C3AED&text_color=ffffff" alt="Awesome Project Repository" />
-  </a>
-</div>
-Thanks for visiting! Have a great day! 😄
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontAlign=70" alt="Footer" /> </p></div> ```
