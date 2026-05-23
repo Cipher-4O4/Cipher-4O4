@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="github-header-banner.png" alt="GitHub Header Banner" width="100%"/>
+  <img src="https://media.giphy.com/media/pVWuLuV1JESZJdebkI/giphy.gif" alt="Sung Jin-woo Badass Banner" width="100%"/>
 </p>
 
 <div align="center">
